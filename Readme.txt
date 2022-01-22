@@ -1,0 +1,4 @@
+The "script.js" file contains the script required to create a 3D model of the hydrogen atom orbitals using the JavaScript 3D Library "Three.js" and other libraries found in the "js" folder.
+For the 3D model creation, we employ the orbital wavefunction modulus (in spherical coordinates) to get the probability of finding the electron at each point in space. This probability is represented by a tiny cube whose color ranges from completely black (implying 0 probability) to completely white (implying probability of 1).
+The orbital represented in this script has the following quantum numbers (n=3, l=2, m=0).
+To view the orbital just run the file "index.html" in any web browser.
